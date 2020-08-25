@@ -6,11 +6,11 @@ chain33联盟链CA服务节点，可向区块链用户签发认证证书，向�
 
 # 运行
 ``` shell
-git clone https://github.com/33cn/chain33-ca.git
+wget https://bty33.oss-cn-shanghai.aliyuncs.com/chain33-Ca.tar.gz
 
-cd  chain33-ca
+tar xzvf chain33-Ca.tar.gz
 
-go build -o chain33-ca main.go
+cd chain33-Ca
 
 ./chain33-ca -f chain33.ca.toml
 ```
