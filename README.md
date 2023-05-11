@@ -6,7 +6,7 @@ chain33联盟链CA服务节点，可向区块链用户签发认证证书，向�
 
 # 运行
 ``` shell
-wget https://bty33.oss-cn-shanghai.aliyuncs.com/chain33-Ca.tar.gz
+wget https://chain33.oss-cn-hangzhou.aliyuncs.com/chain33-Ca.tar.gz
 
 tar xzvf chain33-Ca.tar.gz
 
